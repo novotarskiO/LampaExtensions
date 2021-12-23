@@ -8,7 +8,6 @@
 import Foundation
 
 extension String {
-    
     func test1() {
         print("test1111111111")
     }
